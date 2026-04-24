@@ -1,8 +1,12 @@
 # covid19-uv-relation
-COVID-19 Mortality and Environmental Factors Analysis
-About the Project
+**A Study on the Impact of Sunlight, Ultraviolet Radiation, and Temperature Variability on COVID-19 Mortality: Spatiotemporal Evidence from Small Countries and U.S. States and Territories**
+
+**About the Project**
 This repository contains the analysis code and datasets for an epidemiological study examining the relationship between COVID-19 mortality rates and environmental factors (UV index, ambient temperature, and sunlight duration). The core analysis utilizes a Distributed Lag Model (DLM) focusing on 7 to 21-day lag windows, controlling for socioeconomic and other environmental confounding variables.
-Repository Structure
+You can access the article about the code via the following link.
+https://www.mdpi.com/2673-8112/6/4/56
+
+**Repository Structure**
 The repository is organized into three main components: data collection (Python), statistical analysis (MATLAB), and the raw datasets.
 1. Main Analysis Scripts (MATLAB)
 	•	MAIN_ANALYSIS.mlx: The backbone of the study.
