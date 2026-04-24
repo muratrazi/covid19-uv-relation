@@ -3,7 +3,7 @@
 
 **About the Project**
 This repository contains the analysis code and datasets for an epidemiological study examining the relationship between COVID-19 mortality rates and environmental factors (UV index, ambient temperature, and sunlight duration). The core analysis utilizes a Distributed Lag Model (DLM) focusing on 7 to 21-day lag windows, controlling for socioeconomic and other environmental confounding variables.
-You can access the article about the code via the following link.
+You can access the related article via the following link.
 https://www.mdpi.com/2673-8112/6/4/56
 
 https://zenodo.org/records/19209481
