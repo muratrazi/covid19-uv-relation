@@ -37,5 +37,8 @@ How to Run
 	0.	Diagnostics: Run diagnostics.mlx to validate the assumptions of the main models.
 	0.	Regional Breakdown: Finally, execute REGION-SPECIFIC_ANALYSIS.mlx to isolate and examine the effects within specific countries or states.
 
+ Owid data can be downloaded by the link below.
+   https://ourworldindata.org/coronavirus
+
 Author
 Murat Razi
