@@ -6,6 +6,8 @@ This repository contains the analysis code and datasets for an epidemiological s
 You can access the article about the code via the following link.
 https://www.mdpi.com/2673-8112/6/4/56
 
+https://zenodo.org/records/19209481
+
 **Repository Structure**
 The repository is organized into three main components: data collection (Python), statistical analysis (MATLAB), and the raw datasets.
 1. Main Analysis Scripts (MATLAB)
